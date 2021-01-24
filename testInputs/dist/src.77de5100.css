@@ -1,0 +1,25 @@
+p {
+  font-size: 25px;
+}
+
+#arena {
+  height: 90%;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  border: 5px solid green;
+}
+
+#scoreDisplay {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=/src.77de5100.css.map */
